@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattcurts
 - 👀 I’m starting my Software Development journey
-- 👀 I currently know C and Java
-- 🌱 I’m currently learning Python and Bash 
+- 👀 I currently know C, Java, Python and Bash
+- 🌱 I’m currently learning graph algorithm and computer architecture
 - 💞️ I’m looking to collaborate on anything.
 <!--- 
 - 📫
